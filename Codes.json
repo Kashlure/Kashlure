@@ -1,8 +1,8 @@
 [
   {
     "code": "NEW",
-    "startDate": "",
-    "endDate": "",
+    "startDate": "2025-06-16T00:00Z",
+    "endDate": "2026-06-01T00:00Z",
     "rewards": [
       {
         "type": "item",
@@ -11,8 +11,8 @@
       },
       {
         "type": "item",
-        "id": 11,
-        "amount": 3
+        "id": "",
+        "amount": ""
       }
     ]
   }
