@@ -1,18 +1,27 @@
 [
   {
-    "code": "NEW",
-    "startDate": "2025-06-16T00:00Z",
-    "endDate": "2026-06-01T00:00Z",
+    "code": "1XD2L5",
+    "startDate": "2025-01-01T00:00Z",
+    "endDate": "2026-01-01T00:00Z",
     "rewards": [
       {
         "type": "item",
         "id": 10,
-        "amount": 5
-      },
+        "amount": 3
+      }
+    ]
+  }
+]
+  },
+  {
+    "code": "U2OP4R",
+    "startDate": "2025-01-01T00:00Z",
+    "endDate": "2026-01-01T00:00Z",
+    "rewards": [
       {
         "type": "item",
-        "id": 11,
-        "amount": 3
+        "id": "11",
+        "amount": "1"
       }
     ]
   }
