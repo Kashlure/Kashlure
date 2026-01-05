@@ -2,7 +2,7 @@
   {
     "code": "1XD2L5",
     "startDate": "2025-01-01T00:00Z",
-    "endDate": "2026-01-01T00:00Z",
+    "endDate": "2027-01-01T00:00Z",
     "rewards": [
       {
         "type": "item",
@@ -14,7 +14,7 @@
   {
     "code": "U2OP4R",
     "startDate": "2025-01-01T00:00Z",
-    "endDate": "2026-01-01T00:00Z",
+    "endDate": "2027-01-01T00:00Z",
     "rewards": [
       {
         "type": "item",
@@ -24,3 +24,4 @@
     ]
   }
 ]
+
