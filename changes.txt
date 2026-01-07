@@ -1,3 +1,33 @@
-PRE-ALPHA
+
+PATCH NOTES:
 
 Version 0.0.1
+
+    - Placeholder new game start implemented for reward-related content. (The official game introduction will be added in future versions).
+
+    - Meet Maya! — Maya is the main character of the game and will guide you through your first steps.
+    This is a base character and is unlocked for all players from the beginning.
+
+    - New Banner! — Diana is available to unlock via the Banner system.
+    This character’s progression is still under development. Once unlocked, Diana will be permanently added to your roster and will be fully available and expanded in future updates.
+
+    - Code redemption system implemented (online connection required).
+    Players can redeem codes provided with each new character set released on Patreon.
+
+    - Reward distribution system active.
+    Redeemed codes can grant Shards (gacha currency), items, booster packs, and other resources.
+
+    - Weekly Shop system enabled for early testing (online connection required).
+    Preview the Weekly Shop with new items added on a weekly rotation.
+
+    - Daily reward system implemented.
+    Players are encouraged to claim the daily reward regularly to begin accumulating resources for future updates.
+
+    - Core menus and UI sections available for preview and testing.
+    The in-game menu currently includes Bag, Card Collection, Gallery, Load, Options, Go Premium!, and Exit Game. These sections are part of the core interface and will remain available across future versions.
+
+    - Basic save system active.
+    Auto-save is enabled, with additional manual saving available via the bed.
+
+    - Stability and performance testing phase.
+    This build is intended to verify smooth execution, identify crashes, and detect compatibility or performance issues.
