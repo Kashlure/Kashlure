@@ -3,7 +3,11 @@ PATCH NOTES:
 
 Version 0.0.1
 
-    - Placeholder new game start implemented for reward-related content. (The official game introduction will be added in future versions).
+- Placeholder new game start 
+implemented for reward-related 
+content. (The official game 
+introduction will be added in 
+future versions).
 
     - Meet Maya! — Maya is the main character of the game and will guide you through your first steps.
     This is a base character and is unlocked for all players from the beginning.
