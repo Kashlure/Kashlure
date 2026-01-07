@@ -26,20 +26,19 @@ under development).
 🏠 STORE SAFEHOUSE
 ⭐ PREMIUM STORE
 
+- Gacha system implemented.
+
+- Banner system implemented.
+
 - Code redemption system implemented 
 (online connection required).
-
-- Gacha system implemented.
 
 - Online store implemented
 (online connection required).
 
-- Reward distribution system active.
-Redeemed codes can grant Shards 
-(gacha currency), items, booster packs, 
-and other resources.
-
 - Daily reward system implemented.
+
+- Reward distribution system active.
 
 - Core menus and UI sections available for 
 preview and testing.
