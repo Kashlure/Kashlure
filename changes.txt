@@ -1,53 +1,61 @@
 
-📌 PATCH NOTES:
+📌 PATCH NOTES
 
 ⚙️ Pre-Alpha Version 0.0.1
 
-- Placeholder new game start 
-implemented for reward-related 
-content. (The official game 
-introduction will be added in 
+🆕 Placeholder new game start
+implemented for reward-related
+content. (The official game
+introduction will be added in
 future versions).
 
-❤️ - Meet Maya! — Maya is the main 
-character of the game and will 
+❤️ Meet Maya! — Maya is the main
+character of the game and will
 guide you through your first steps.
-(This is a base character and is unlocked 
-for all players from the beginning).
+(This is a base character and is
+unlocked for all players from the
+beginning).
 
-💝 - New Banner! — Diana is available 
-to unlock via the Banner system.
-(This character’s progression is still 
-under development).
+💝 New Banner Available! — Diana
+can now be unlocked via the
+Banner system.
+(This character’s progression is
+still under development).
 
-🗺️ - 3 New Maps — Now available:
+🗺️ 3 New Maps Added — Now
+available:
 
 🏪 LURE STORE
 🏠 STORE SAFEHOUSE
 ⭐ PREMIUM STORE
 
-- Gacha system implemented.
+🎲 Gacha system implemented.
 
-- Banner system implemented.
+🎴 Banner system implemented.
 
-- Code redemption system implemented 
+🔑 Code redemption system
+implemented
 (online connection required).
 
-- Online store implemented
+🛒 Online store implemented
 (online connection required).
 
-- Daily reward system implemented.
+🎁 Daily reward system implemented.
 
-- Reward distribution system active.
+📦 Reward distribution system
+now active.
 
-- Core menus and UI sections available for 
-preview and testing.
+🧭 Core menus and UI sections
+available for preview and testing.
 
-- Basic save system active.
-Auto-save is enabled, with additional manual 
-saving available via the bed.
+💾 Basic save system active.
+Auto-save is enabled, with
+additional manual saving
+available via the bed.
 
-- Stability and performance testing phase.
-This build is intended to verify smooth execution, 
-identify crashes, and detect compatibility or 
-performance issues.
+🛠️ Stability and performance
+testing phase.
+This build is intended to verify
+smooth execution, identify
+crashes, and detect compatibility
+or performance issues.
