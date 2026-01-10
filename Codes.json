@@ -1,27 +1,28 @@
 [
   {
-    "code": "1XD2L5",
-    "startDate": "2025-01-01T00:00Z",
-    "endDate": "2027-01-01T00:00Z",
+    "code": "LRBH9T",
+    "startDate": "2026-01-01T00:00Z",
+    "endDate": "2026-02-01T00:00Z",
     "rewards": [
       {
-        "type": "item",
-        "id": 10,
-        "amount": 3
+        "type": "variable",
+        "id": 25,
+        "amount": 1
       }
     ]
   },
   {
-    "code": "U2OP4R",
-    "startDate": "2025-01-01T00:00Z",
-    "endDate": "2027-01-01T00:00Z",
+    "code": "VPQTA8",
+    "startDate": "2026-01-01T00:00Z",
+    "endDate": "2026-02-01T00:00Z",
     "rewards": [
       {
-        "type": "item",
-        "id": 11,
+        "type": "variable",
+        "id": 26,
         "amount": 1
       }
     ]
   }
 ]
+
 
