@@ -58,8 +58,22 @@
         "amount": 1
       }
     ]
+  },
+  {
+    "code": "M4Z8P7",
+    "startDate": "2026-01-01T00:00Z",
+    "endDate": "2026-02-01T00:00Z",
+    "rewards": [
+      {
+        "type": "variable",
+        "id": 25,
+        "amount": 1
+      }
+    ]
   }
 ]
+
+
 
 
 
