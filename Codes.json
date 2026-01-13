@@ -29,8 +29,8 @@
     "endDate": "2026-02-01T00:00Z",
     "rewards": [
       {
-        "type": "variable",
-        "id": 26,
+        "type": "item",
+        "id": 53,
         "amount": 1
       }
     ]
@@ -108,6 +108,7 @@
     ]
   }
 ]
+
 
 
 
